@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/churn.db
+data/chroma/
+exports/
+.venv/
+venv/
+eval/results/progress_*.json
